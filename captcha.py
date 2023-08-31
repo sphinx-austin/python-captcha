@@ -16,4 +16,7 @@ def generate_and_save_captch(image_width=300,image_height=100,captcha_length=6,s
     image.write(captcha_text, save_path)
     return captcha_text
 
-    
+if __name__ == "__main__":
+    captcha_text = generate_and_save_captch()
+    print("CAPTCH text : ", captcha_text)
+Image.open('CAPCHA.png')
