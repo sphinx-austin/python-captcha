@@ -16,7 +16,7 @@ Create a virtual environment to install dependencies in and activate it:
 ```sh
 $ virtualenv --no-site-packages venv
 
-or py -3 -m venv ven
+or py -3 -m venv venv
 
 $ source env/bin/activate
 ```
