@@ -1,7 +1,7 @@
 # python-captcha
 - Captcha generation using python
 
-# To Start
+## To Start
 
 ## Setup
 
