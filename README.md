@@ -1,9 +1,9 @@
 # python-captcha
 - Captcha generation using python
 
-## To Start
+### To Start
 
-## Setup
+### Setup
 
 The first thing to do is to clone the repository:
 
